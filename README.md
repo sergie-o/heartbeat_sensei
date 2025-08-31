@@ -143,3 +143,25 @@ A deep learning pipeline that learns to detect PVCs using **1D Convolutional Neu
     # 4) Results & Reports
     # All evaluation metrics, plots, and insights 
     # are included in project_heart_sensei.ipynb
+   ---
+```
+📁 Repo Structure
+
+```
+    Project-Heartbeat-Sensei/
+    │── data/                # MIT-BIH ECG data (not included, from PhysioNet)
+    │── notebooks/           # Jupyter notebooks for preprocessing, modeling, evaluation
+    │── models/              # Saved CNN models
+    │── assets/              # Visualizations (PR curves, confusion matrices, etc.)
+    │── requirements.txt     # Project dependencies
+    │── README.md            # Project documentation
+
+    ----
+
+    ---
+
+## 🔗 References  
+
+- [MIT-BIH Arrhythmia Database (PhysioNet)](https://physionet.org/content/mitdb/1.0.0/)  
+- Citation:  
+  > Moody GB, Mark RG. The impact of the MIT-BIH Arrhythmia Database. IEEE Eng in Med and Biol 20(3):45–50 (2001).  
