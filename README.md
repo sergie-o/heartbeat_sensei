@@ -1,7 +1,8 @@
 # ❤️ Project Heartbeat Sensei  
 
-
-
+<p align="center">
+  <img src="https://github.com/sergie-o/cnn-vs-transfer-cifar10/blob/main/image.png" alt="Banner" width="900"/>
+</p>  
 
 
 
