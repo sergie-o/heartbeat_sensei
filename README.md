@@ -88,12 +88,15 @@ A deep learning pipeline that learns to detect PVCs using **1D Convolutional Neu
 ---
 
 ## ⚙️ Tech Stack  
-- **Python**  
-- **TensorFlow/Keras** (1D CNN modeling)  
-- **Scikit-learn** (class weights, metrics)  
-- **Pandas & NumPy** (data preprocessing)  
-- **Matplotlib / Plotly** (visualizations)  
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=blue)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
 ---
 
 ## 📊 Results (PVC Classification)  
