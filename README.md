@@ -6,8 +6,8 @@
 
 
 
-**When accuracy isn’t enough: building AI that saves lives, one heartbeat at a time**  
-*Detecting Arrhythmias with Deep Learning (PVC Detection using 1D CNNs)*  
+>**When accuracy isn’t enough: building AI that saves lives, one heartbeat at a time**  
+>*Detecting Arrhythmias with Deep Learning (PVC Detection using 1D CNNs)*  
 
 ---
 
