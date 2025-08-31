@@ -124,3 +124,22 @@ A deep learning pipeline that learns to detect PVCs using **1D Convolutional Neu
    ```bash
    git clone https://github.com/yourusername/Project-Heartbeat-Sensei.git
    cd Project-Heartbeat-Sensei
+   # 1) Create and activate a virtual environment
+    python -m venv venv
+    source venv/bin/activate   # on Windows: venv\Scripts\activate
+
+    # 2) Install dependencies
+    pip install -r requirements.txt
+
+    # 3) Run the main notebook (VS Code / Jupyter)
+    jupyter notebook notebooks/project_heart_sensei.ipynb
+
+    # Inside this notebook:
+    #    - Data loading & preprocessing (beat segmentation, patient-wise splits)
+    #    - Handling class imbalance (class weights, threshold tuning)
+    #    - Train Binary PVC CNNs (baseline & improved versions)
+    #    - Evaluate with PR curves, threshold analysis, and confusion matrices
+
+    # 4) Results & Reports
+    # All evaluation metrics, plots, and insights 
+    # are included in project_heart_sensei.ipynb
